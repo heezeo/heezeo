@@ -31,5 +31,5 @@ I'm studying Data Analytics with the eyes of media 📸 <br>
 <p align="center">
   <a href="https://velog.io/@heezeo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
   <a href="https://www.linkedin.com/in/heezeo"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://velog.io/@new_wisdom"/>
-  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heezeo@gmail.com"/></a>
+  <a href="mailto:heezeo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heezeo@gmail.com"/></a>
 </p>
