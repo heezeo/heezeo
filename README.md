@@ -3,7 +3,7 @@
 I'm Heeji Kim(heezeo), a growing data analyst. 🌱 <br>
 I'm studying Data Analytics with the eyes of media 📸 <br>
 </p>
-<h3 align="center">📚 Current Project 📚</h3>
+<h3 align="center">📚 Recent Project 📚</h3>
 <p align="center">
   👉<a href="https://github.com/dataitgirls4/team_5"> dataitgirls4/team5 </a>👈
 </p> 
