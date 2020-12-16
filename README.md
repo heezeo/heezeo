@@ -7,6 +7,11 @@ I'm studying Data Analytics with the eyes of media 📸 <br>
 <p align="center">
   👉<a href="https://github.com/dataitgirls4/team_5"> dataitgirls4/team5 </a>👈
 </p> 
+
+<h3 align="center">📚 Curent Project 📚</h3>
+<p align="center">
+  👉<a href="https://github.com/heezeo/dataitgeuls_2020">Reviewing dataitgeuls(데글데글) 2020</a>👈
+  
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>
